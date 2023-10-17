@@ -1,0 +1,74 @@
+.logo img{
+  height: 50px;
+  width: 100px;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  max-width: 1280px;
+  align-items: center;
+  margin: 0 auto;
+  height: 72px;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 24px;
+}
+nav ul li:hover{
+  background-color: rgb(97, 97, 191);
+  color: aliceblue;
+  border-radius: 5px;
+}
+button{
+  color: aliceblue;
+  height: 30px;
+  width: 80px;
+  background-color: rgb(167, 44, 44);
+  font-size: 20px;
+  border-radius: 5px;
+}
+main{
+  display: flex;
+}
+.left{
+  display: flex;
+  flex-direction: column;
+}
+.left h1{
+  font-size: 80px;
+ margin-bottom: 0px;
+}
+.slogan{
+  
+  font-size: 15px;
+}
+.icon{
+  display: flex;
+ 
+  flex-direction: row;
+  gap: 8px;
+}
+.icon img{
+  height: 20px;
+  width: 30px;
+}
+.btn{
+  
+  display: flex;
+  gap: 24px;
+ 
+}
+.first{
+  font-size: 15px;
+  color: white;
+  width: 100px;
+  border: 2px green inset;
+}
+.second{
+  border: 2px green inset;
+  font-size: 15px;
+  color: rgb(14, 11, 11);
+  width: 100px;
+  background: transparent;
+}

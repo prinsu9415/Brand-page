@@ -1,8 +1,3 @@
 # Puma Brand Home Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I created a dynamic and engaging home page for Puma Brand shoes using React. This sleek design showcases a variety of features, including easy contact options, informative details about Puma, a selection of categories, and a quick 'Shop Now' button for a seamless shopping experience. It's a user-friendly platform that brings the world of Puma shoes to your fingertips
